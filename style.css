@@ -1,0 +1,26 @@
+body{
+     text-align: center;
+     background-color: whitesmoke;
+     font-family: 'Times New Roman', Times, serif;
+     
+
+}
+h1{
+    color: rgb(113, 113, 240);
+}
+h2{
+    color: rgb(113, 113, 240);
+}
+h3{
+    color: rgb(113, 113, 240);
+}
+img{
+    width: 250px;
+}
+
+ul{
+    display: inline-block;
+}
+hr{
+    width: 20%;
+}
